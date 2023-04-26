@@ -2,7 +2,7 @@
 # https://evalai.readthedocs.io/en/latest/configuration.html
 title: MRI Super Resolution Test Challenge
 short_description: generation of super resolution 3D MRI image from brains and pplan root systems
-description: templates/description.html
+description: challenge_details/description.html
 evaluation_details: templates/evaluation_details.html
 terms_and_conditions: templates/terms_and_conditions.html
 image: logo.jpg
